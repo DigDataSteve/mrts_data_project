@@ -1,0 +1,25 @@
+Years: 2001 to 2021
+
+Clean the data:
+Delete rows 1-4
+Delete column A
+Delete adjusted data
+Delete 'Non Adjusted' row
+Delete 'Drinking places' row due to data stopped being collected during 2018
+Deleted the following due to missing data for more than a few months in the later years:
+Floor covering stores
+Full service restaurants
+Men's clothing stores
+Home furnishings stores
+All other home furnishings stores
+Full service restaurants
+
+
+
+
+
+
+Delete 'All other home furnishings stores' row (only 'N/A' data points)
+Delete 'Supermarkets and other grocery (except convenience) stores' row (only 'N/A' data points)
+Delete 'Paint and wallpaper stores' 
+Delete 'Other clothing stores'
